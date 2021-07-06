@@ -1,2 +1,2 @@
 # RL 
-## This repository contains implementation of various reinforcement learning algorithms
+## This repository contains my implementation of various reinforcement learning algorithms
